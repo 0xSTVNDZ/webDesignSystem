@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+    margin: 10%;
+}
+
+.main-title {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px;
+    color: white;
+}
+
+h4 {
+    color: white;
+    text-align: right;
+}
+
+a {
+    color: pink;
+
+}
+
+.container {
+    border: 2px solid white;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.container h1 {
+    text-align: left;
+    color: white;
+
+}
+
+.container h4 {
+    text-align: left;
+    color: white;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink {
+    background-color: pink;
+    color: black;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+    color: black;
+}
+
+.beige {
+    background-color: beige;
+    color: black;
+}
+
+.red1 {
+    background-color: #FF8A80;
+    color: black;
+}
+
+.red2 {
+    background-color: #FF5252;
+    color:  black;
+}
+
+.red3 {
+    background-color: #FF1744;
+    color: black;
+}
+
+.red4 {
+    background-color: #D50000;
+    color: white;
+}
+
+.orange1 {
+    background-color: #FFD180;
+    color: black;
+}
+
+.orange2 {
+    background-color: #FFAB40;
+    color:  black;
+}
+
+.orange3 {
+    background-color: #FF9100;
+    color: black;
+}
+
+.orange4 {
+    background-color: #FF6D00;
+    color: black;
+}
