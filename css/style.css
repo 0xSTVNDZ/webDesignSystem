@@ -208,3 +208,60 @@ a {
     background-color: #616161;
     color: white;
 }
+
+.font-container {
+    color: white;
+    font-size: larger;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.libre-baskerville {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.libre-baskerville p.italic {
+    font-style: italic;
+}
+
+.libre-baskerville p.bold {
+    font-weight: bold;
+}
+
+.cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.cinzel p.regular {
+    font-weight: 400;
+}
+
+.cinzel p.bold {
+    font-weight: 700;
+}
+
+.cinzel p.black {
+    font-weight: 900;
+}
+
+.lobster-two {
+    font-family: 'Lobster Two', cursive;
+}
+
+.lobster-two p.regular {
+    font-weight: 400;
+}
+
+.lobster-two p.italic {
+    font-style: italic;
+}
+
+.lobster-two p.bold {
+    font-weight: 700;
+}
