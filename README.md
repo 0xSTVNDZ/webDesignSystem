@@ -1,6 +1,7 @@
 # Web Design System
 > Design system(s) for future websites.
-<!-- Live demo [_here_](https://www.example.com).  If you have the project hosted somewhere, include the link here. -->
+> Live [Demo](https://0xstvndz.github.io/webDesignSystem/)
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -22,6 +23,7 @@ As your websites grow larger and more complex, having a consistent set of styles
 ## Technologies Used
 - HTML
 - CSS
+- Git/Github
 
 
 ## Features
@@ -29,7 +31,7 @@ As your websites grow larger and more complex, having a consistent set of styles
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _completed_ 
 
 
 ## Room for Improvement
@@ -37,7 +39,7 @@ Room for improvement:
 - Always room for improvement
 
 To do:
-- Begin project
+- Add more design options on the page itself
 
 
 ## Acknowledgements
